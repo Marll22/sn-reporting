@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>true</disabled>
+        <field>topic.type</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 02:41:18</sys_created_on>
+        <sys_data_policy display_value="Type on Information table">7f1e19f197db0110234e30d3f153af94</sys_data_policy>
+        <sys_id>0221a9b597db0110234e30d3f153afc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>topic.type</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_data_policy_rule_0221a9b597db0110234e30d3f153afc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 02:41:18</sys_updated_on>
+        <table>x_402400_reporting_information</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_data_policy_rule_0221a9b597db0110234e30d3f153afc7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>true</disabled><field>topic.type</field><mandatory>ignore</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-07 02:41:18</sys_created_on><sys_data_policy display_value="Type on Information table">7f1e19f197db0110234e30d3f153af94</sys_data_policy><sys_id>0221a9b597db0110234e30d3f153afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>topic.type</sys_name><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_data_policy_rule_0221a9b597db0110234e30d3f153afc7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-07 02:41:18</sys_updated_on><table>x_402400_reporting_information</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>-1212412894</payload_hash>
+        <record_name>topic.type</record_name>
+        <reverted_from/>
+        <source>16cadb6597d30110234e30d3f153af18</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 02:41:18</sys_created_on>
+        <sys_id>763165b597db0110234e30d3f153afce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1809c6494840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 02:41:18</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>be3165b5a0db01106ea795d66a9bd4cd</update_guid>
+        <update_guid_history>be3165b5a0db01106ea795d66a9bd4cd:-1212412894</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-09 03:03:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>2bd33e9e76064d2aa58812b40fa5b381</sys_id>
+        <sys_metadata>0221a9b597db0110234e30d3f153afc7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>topic.type</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_0221a9b597db0110234e30d3f153afc7</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_0221a9b597db0110234e30d3f153afc7">763165b597db0110234e30d3f153afce</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-09 03:03:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

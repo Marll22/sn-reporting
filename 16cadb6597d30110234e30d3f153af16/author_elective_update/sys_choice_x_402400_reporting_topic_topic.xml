@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="topic" table="x_402400_reporting_topic" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>topic</element>
+            <name>x_402400_reporting_topic</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-06 17:56:11</sys_created_on>
+            <sys_id>ea092b2597170110234e30d3f153af10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>topic</sys_name>
+            <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+            <sys_update_name>sys_choice_x_402400_reporting_topic_topic</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-06 17:56:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>topic</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Topic</label>
+            <language>en</language>
+            <name>x_402400_reporting_topic</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-06 17:56:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40f82b2597170110234e30d3f153af34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-06 17:56:11</sys_updated_on>
+            <value>topic</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

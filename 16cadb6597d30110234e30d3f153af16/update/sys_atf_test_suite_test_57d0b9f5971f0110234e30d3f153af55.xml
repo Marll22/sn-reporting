@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 03:49:45</sys_created_on>
+        <sys_id>57d0b9f5971f0110234e30d3f153af55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ec7921fd97db0110234e30d3f153af9e</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_57d0b9f5971f0110234e30d3f153af55</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 03:49:45</sys_updated_on>
+        <test display_value="Navigation - User">ec7921fd97db0110234e30d3f153af9e</test>
+        <test_suite display_value="Navigation">e590f1f5971f0110234e30d3f153af85</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>

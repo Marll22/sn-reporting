@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="x_402400_reporting.user" name="x_402400_reporting.user">bfda57a597d30110234e30d3f153afe9</contains>
+        <role display_value="x_402400_reporting.admin" name="x_402400_reporting.admin">bde525f997db0110234e30d3f153af9b</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 03:02:10</sys_created_on>
+        <sys_id>5c06e5b997db0110234e30d3f153af3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_402400_reporting.user.x_402400_reporting.admin</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_user_role_contains_5c06e5b997db0110234e30d3f153af3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 03:02:10</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_user_role_contains_5c06e5b997db0110234e30d3f153af3e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_402400_reporting.user" name="x_402400_reporting.user">bfda57a597d30110234e30d3f153afe9</contains><role display_value="x_402400_reporting.admin" name="x_402400_reporting.admin">bde525f997db0110234e30d3f153af9b</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-07 03:02:10</sys_created_on><sys_id>5c06e5b997db0110234e30d3f153af3e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_402400_reporting.user.x_402400_reporting.admin</sys_name><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_user_role_contains_5c06e5b997db0110234e30d3f153af3e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-07 03:02:10</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>-1176092544</payload_hash>
+        <record_name>x_402400_reporting.user.x_402400_reporting.admin</record_name>
+        <reverted_from/>
+        <source>16cadb6597d30110234e30d3f153af18</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 03:02:10</sys_created_on>
+        <sys_id>d406a5f997db0110234e30d3f153af07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1809c77ae0f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 03:02:10</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>1006a5f96adb0110d464bafb074bc707</update_guid>
+        <update_guid_history>1006a5f96adb0110d464bafb074bc707:-1176092544</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 03:05:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>9e40b42f13224517864ad2323346d011</sys_id>
+        <sys_metadata>5c06e5b997db0110234e30d3f153af3e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_402400_reporting.user.x_402400_reporting.admin</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_5c06e5b997db0110234e30d3f153af3e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_5c06e5b997db0110234e30d3f153af3e">d406a5f997db0110234e30d3f153af07</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 03:05:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

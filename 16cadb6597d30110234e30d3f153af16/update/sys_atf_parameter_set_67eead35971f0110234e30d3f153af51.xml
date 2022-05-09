@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_parameter_set">
+    <sys_atf_parameter_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Last name = Manager
+Role = x_402400_reporting.manager</description>
+        <order>2</order>
+        <parameters/>
+        <sys_class_name>sys_atf_parameter_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 03:41:20</sys_created_on>
+        <sys_id>67eead35971f0110234e30d3f153af51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_parameter_set_67eead35971f0110234e30d3f153af51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 03:41:20</sys_updated_on>
+        <test display_value="Navigation - Admin/Manager">226b6171971f0110234e30d3f153af52</test>
+    </sys_atf_parameter_set>
+    <sys_variable_value action="delete_multiple" query="document_key=67eead35971f0110234e30d3f153af51"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>67eead35971f0110234e30d3f153af51</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 03:41:20</sys_created_on>
+        <sys_id>8afee575971f0110234e30d3f153af6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 03:41:20</sys_updated_on>
+        <value>Manager</value>
+        <variable display_value="Last name">ac9be571971f0110234e30d3f153af6d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>67eead35971f0110234e30d3f153af51</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 03:41:20</sys_created_on>
+        <sys_id>c6fee575971f0110234e30d3f153af6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 03:41:20</sys_updated_on>
+        <value>f086edf997db0110234e30d3f153afb9</value>
+        <variable display_value="Role">593c25b1971f0110234e30d3f153afaf</variable>
+    </sys_variable_value>
+</record_update>

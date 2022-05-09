@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="DELETE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_402400_reporting_information</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Type on Information table</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 02:28:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7f1e19f197db0110234e30d3f153af94</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Type on Information table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_data_policy2_7f1e19f197db0110234e30d3f153af94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 02:40:03</sys_updated_on>
+    </sys_data_policy2>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_data_policy2_7f1e19f197db0110234e30d3f153af94</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2"><sys_data_policy2 action="INSERT_OR_UPDATE"><active>true</active><apply_import_set>true</apply_import_set><apply_soap>true</apply_soap><conditions/><description/><enforce_ui>true</enforce_ui><inherit>false</inherit><model_id/><model_table>x_402400_reporting_information</model_table><reverse_if_false>true</reverse_if_false><short_description>Type on Information table</short_description><sys_class_name>sys_data_policy2</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-07 02:28:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7f1e19f197db0110234e30d3f153af94</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Type on Information table</sys_name><sys_overrides/><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_data_policy2_7f1e19f197db0110234e30d3f153af94</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-07 02:40:03</sys_updated_on></sys_data_policy2></record_update>]]></payload>
+        <payload_hash>2125502369</payload_hash>
+        <record_name>Type on Information table</record_name>
+        <reverted_from/>
+        <source>16cadb6597d30110234e30d3f153af18</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 02:40:03</sys_created_on>
+        <sys_id>90f021b597db0110234e30d3f153afbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1809c636ead0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 02:40:03</sys_updated_on>
+        <type>Data Policy</type>
+        <update_guid>98f021b55fdb01102fa788be67c7e1ba</update_guid>
+        <update_guid_history>98f021b55fdb01102fa788be67c7e1ba:2125502369,40c0ad75c7db0110e6d1b7f4d86bd259:626545955,547f5df18adb01109518577db0ba77b9:-119946396,d31f15357ddb011027012be3b5d3d9e3:1936544815,daae913525db01103df4d2ed2fe3143f:-621223719,e73e99f5ec9b011016590d93eb122266:-21666236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-09 03:03:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy2">sys_data_policy2</sys_db_object>
+        <sys_id>28446d999de04d2c94974bfcdac16310</sys_id>
+        <sys_metadata>7f1e19f197db0110234e30d3f153af94</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Type on Information table</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent display_value="Information">ed4b9fa597d30110234e30d3f153af79</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_data_policy2_7f1e19f197db0110234e30d3f153af94</sys_update_name>
+        <sys_update_version display_value="sys_data_policy2_7f1e19f197db0110234e30d3f153af94">90f021b597db0110234e30d3f153afbb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-09 03:03:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

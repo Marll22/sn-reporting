@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_402400_reporting.user" name="x_402400_reporting.user">bfda57a597d30110234e30d3f153afe9</contains>
+        <role display_value="x_402400_reporting.manager" name="x_402400_reporting.manager">f086edf997db0110234e30d3f153afb9</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-07 03:04:44</sys_created_on>
+        <sys_id>7596213d97db0110234e30d3f153aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_402400_reporting.user.x_402400_reporting.manager</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_user_role_contains_7596213d97db0110234e30d3f153aff4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-07 03:04:44</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
