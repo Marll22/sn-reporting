@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 19:27:46</sys_created_on>
+        <sys_id>2454284397570110234e30d3f153afa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d724644397570110234e30d3f153afaa</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_2454284397570110234e30d3f153afa4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 19:27:46</sys_updated_on>
+        <test display_value="Information - Manager - Create/Read/Update">d724644397570110234e30d3f153afaa</test>
+        <test_suite display_value="CRUD">4478940797170110234e30d3f153af50</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>

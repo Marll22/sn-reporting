@@ -4,16 +4,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-06 16:56:38</sys_created_on>
         <sys_id>c26b13e597d30110234e30d3f153afd4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_402400_reporting_information.x_402400_reporting.user</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_402400_reporting_information.x_402400_reporting.manager</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_security_acl display_value="x_402400_reporting_information">066b13e597d30110234e30d3f153afc5</sys_security_acl>
         <sys_update_name>sys_security_acl_role_c26b13e597d30110234e30d3f153afd4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-06 16:56:38</sys_updated_on>
-        <sys_user_role display_value="x_402400_reporting.user" name="x_402400_reporting.user">bfda57a597d30110234e30d3f153afe9</sys_user_role>
+        <sys_updated_on>2022-05-10 17:27:28</sys_updated_on>
+        <sys_user_role display_value="x_402400_reporting.manager" name="x_402400_reporting.manager">f086edf997db0110234e30d3f153afb9</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Open an Existing Record">9481288f97170110234e30d3f153af3d</copied_from>
+        <description>Open the 'Information' form with id '{{invalid step_id=1f24644397570110234e30d3f153afb3.}}'</description>
+        <display_name>Open an Existing Record</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 19:26:58</sys_created_on>
+        <sys_id>9724644397570110234e30d3f153afc7</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Open an Existing Record</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_9724644397570110234e30d3f153afc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 19:29:22</sys_updated_on>
+        <table>x_402400_reporting_information</table>
+        <test display_value="Information - Manager - Create/Read/Update">d724644397570110234e30d3f153afaa</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=9724644397570110234e30d3f153afc7"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>9724644397570110234e30d3f153afc7</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 19:26:58</sys_created_on>
+        <sys_id>1724644397570110234e30d3f153afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 19:26:58</sys_updated_on>
+        <value>x_402400_reporting_information</value>
+        <variable display_value="Table">b124164e53a0220002c6435723dc34c5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>9724644397570110234e30d3f153afc7</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 19:26:58</sys_created_on>
+        <sys_id>5324644397570110234e30d3f153afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 19:26:58</sys_updated_on>
+        <value/>
+        <variable display_value="View">6e55da4e53a0220002c6435723dc34a0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>9724644397570110234e30d3f153afc7</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 19:26:58</sys_created_on>
+        <sys_id>9f24644397570110234e30d3f153afc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 19:26:58</sys_updated_on>
+        <value/>
+        <variable display_value="Record">ad351a4e53a0220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>9724644397570110234e30d3f153afc7</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 19:26:58</sys_created_on>
+        <sys_id>db24644397570110234e30d3f153afc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 19:26:58</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">17d732a9c7a333005e5c45b881c26007</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=9724644397570110234e30d3f153afc7"/>
+    <sys_element_mapping action="DELETE">
+        <field>record_id</field>
+        <id>9724644397570110234e30d3f153afc7</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 19:26:58</sys_created_on>
+        <sys_id>9b24644397570110234e30d3f153afc9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 19:26:58</sys_updated_on>
+        <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
+        <value>{{step['1f24644397570110234e30d3f153afb3'].record_id}}</value>
+    </sys_element_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_atf_step_9724644397570110234e30d3f153afc7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Open an Existing Record">9481288f97170110234e30d3f153af3d</copied_from><description>Open the 'Information' form with id '{{invalid step_id=1f24644397570110234e30d3f153afb3.}}'</description><display_name>Open an Existing Record</display_name><inputs/><inputs/><mugshots_cache_json/><notes/><order>4</order><snapshot/><step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 19:26:58</sys_created_on><sys_id>9724644397570110234e30d3f153afc7</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Open an Existing Record</sys_name><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_atf_step_9724644397570110234e30d3f153afc7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 19:29:22</sys_updated_on><table>x_402400_reporting_information</table><test display_value="Information - Manager - Create/Read/Update">d724644397570110234e30d3f153afaa</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=9724644397570110234e30d3f153afc7"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>9724644397570110234e30d3f153afc7</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 19:26:58</sys_created_on><sys_id>1724644397570110234e30d3f153afc9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 19:26:58</sys_updated_on><value>x_402400_reporting_information</value><variable display_value="Table">b124164e53a0220002c6435723dc34c5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>9724644397570110234e30d3f153afc7</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 19:26:58</sys_created_on><sys_id>5324644397570110234e30d3f153afc9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 19:26:58</sys_updated_on><value/><variable display_value="View">6e55da4e53a0220002c6435723dc34a0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>9724644397570110234e30d3f153afc7</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 19:26:58</sys_created_on><sys_id>9f24644397570110234e30d3f153afc8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 19:26:58</sys_updated_on><value/><variable display_value="Record">ad351a4e53a0220002c6435723dc34f0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>9724644397570110234e30d3f153afc7</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 19:26:58</sys_created_on><sys_id>db24644397570110234e30d3f153afc8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 19:26:58</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">17d732a9c7a333005e5c45b881c26007</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=9724644397570110234e30d3f153afc7"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>record_id</field><id>9724644397570110234e30d3f153afc7</id><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 19:26:58</sys_created_on><sys_id>9b24644397570110234e30d3f153afc9</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 19:26:58</sys_updated_on><table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table><value>{{step['1f24644397570110234e30d3f153afb3'].record_id}}</value></sys_element_mapping></record_update>]]></payload>
+        <payload_hash>-1901987283</payload_hash>
+        <record_name>Open an Existing Record</record_name>
+        <reverted_from/>
+        <source>e3feff1a97130110234e30d3f153af23</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 19:29:22</sys_created_on>
+        <sys_id>eab4ec4397570110234e30d3f153afa8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180af72911b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 19:29:22</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>e2b4ec4351570110b80d9f342163f4a8</update_guid>
+        <update_guid_history>e2b4ec4351570110b80d9f342163f4a8:-1901987283,72a4ac43ad570110b502d6939c16b896:-1479440100,5f246443325701105db76208dcf638dd:2057568319,5b246443fa57011080ed843a1eb654cb:630950651</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 19:29:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>87dc02e627b74da9a1ed8638df0c6059</sys_id>
+        <sys_metadata>9724644397570110234e30d3f153afc7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open an Existing Record</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_atf_step_9724644397570110234e30d3f153afc7</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_9724644397570110234e30d3f153afc7">eab4ec4397570110234e30d3f153afa8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 19:29:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

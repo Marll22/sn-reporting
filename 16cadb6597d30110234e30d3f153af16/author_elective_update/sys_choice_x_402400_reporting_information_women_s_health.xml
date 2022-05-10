@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="women_s_health" table="x_402400_reporting_information" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>women_s_health</element>
+            <name>x_402400_reporting_information</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-09 20:56:18</sys_created_on>
+            <sys_id>520f63e697130110234e30d3f153afe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>women_s_health</sys_name>
+            <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+            <sys_update_name>sys_choice_x_402400_reporting_information_women_s_health</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-09 20:56:18</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>women_s_health</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Women's Topic 1</label>
+            <language>en</language>
+            <name>x_402400_reporting_information</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-09 20:56:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16ee27e697130110234e30d3f153afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-09 20:56:18</sys_updated_on>
+            <value>women_s_topic_1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>women_s_health</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Women's Topic 2</label>
+            <language>en</language>
+            <name>x_402400_reporting_information</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-09 20:56:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>141f23e697130110234e30d3f153af9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-09 20:56:27</sys_updated_on>
+            <value>women_s_topic_2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>women_s_health</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Women's Topic 3</label>
+            <language>en</language>
+            <name>x_402400_reporting_information</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-09 20:56:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e1fe7e697130110234e30d3f153afc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-09 20:56:34</sys_updated_on>
+            <value>women_s_topic_3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Information" max_length="40" name="x_402400_reporting_information" sizeclass="20" type="collection">
-        <element label="Date" max_length="10" name="date" type="string"/>
-        <element choice="1" label="Topic" max_length="32" name="topic" reference="x_402400_reporting_topic" type="reference">
+    <element label="Information" max_length="40" name="x_402400_reporting_information" sizeclass="26" type="collection">
+        <element default="javascript:gs.now()" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Date" mandatory="true" max_length="40" name="date" type="glide_date" use_dynamic_default="true"/>
+        <element choice="1" label="Topic" mandatory="true" max_length="32" name="topic" reference="x_402400_reporting_topic" type="reference">
             <choice/>
         </element>
         <index name="index">

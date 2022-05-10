@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="UI Action Visibility">0925fc8397970110234e30d3f153afd8</copied_from>
+        <description>Confirm that the following UI actions are visible: Update, Save, Insert, Insert and Stay
+Confirm that the following UI actions are not visible: Delete, Submit, Restore Record, Save, Insert and Stay, Insert, Save, Save, Show Archive Log Entry, Cancel, Archive Record, Restore Record and Related Records, Update, Search, Run Diagnostics, Delete, Save
+With a failure timeout of 5 Seconds</description>
+        <display_name>UI Action Visibility</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>18</order>
+        <snapshot/>
+        <step_config display_value="UI Action Visibility">d8fdf5e10b1022009cfdc71437673adc</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:18:40</sys_created_on>
+        <sys_id>efbdf8cb97970110234e30d3f153af85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UI Action Visibility</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_efbdf8cb97970110234e30d3f153af85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:18:40</sys_updated_on>
+        <table>x_402400_reporting_information</table>
+        <test display_value="Information - Admin - Create/Read/Update/Delete">bf7d748b97970110234e30d3f153af19</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=efbdf8cb97970110234e30d3f153af85"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>efbdf8cb97970110234e30d3f153af85</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:18:40</sys_created_on>
+        <sys_id>67bdf8cb97970110234e30d3f153af87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:18:40</sys_updated_on>
+        <value>x_402400_reporting_information</value>
+        <variable display_value="Table">ba62b4075320220002c6435723dc34b9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>efbdf8cb97970110234e30d3f153af85</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:18:40</sys_created_on>
+        <sys_id>a3bdf8cb97970110234e30d3f153af87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:18:40</sys_updated_on>
+        <value>1f12506f7f532200348ef0d8adfa9139,42ec73550a0a0b3400c97002208d0901,0efdf94d9f2120007aaa207c7f4bcc79,42e780d40a0a0b34007e0d4a52d33405,4326b1f70a0a0b340008f9a773d47393,4326fb390a0a0b340099a93580d98f32,432ace8b0a0a0b34006b02832660c894,56ff8c677f532200348ef0d8adfa91c4,622945139f0120007aaa207c7f4bcc54,793dee7e7f932200348ef0d8adfa91ba,a315c1539f0120007aaa207c7f4bccff,ebe666370f10101080354304f6767eda,sysverb_post_update,sysverb_query,54aeabd1b30013003e5362ff86a8dc73,57dc4c970a0a0b3400f8f0538d3faf94,b1cbe4637f172200348ef0d8adfa91f0</value>
+        <variable display_value="Not visible">6619c7aa5320220002c6435723dc34e2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>efbdf8cb97970110234e30d3f153af85</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:18:40</sys_created_on>
+        <sys_id>ebbdf8cb97970110234e30d3f153af86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:18:40</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">bc43e004c76733005e5c45b881c26046</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>efbdf8cb97970110234e30d3f153af85</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:18:40</sys_created_on>
+        <sys_id>efbdf8cb97970110234e30d3f153af86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:18:40</sys_updated_on>
+        <value>42df02e20a0a0b340080e61b551f2909,47fd7f4dc0a8000600a552278b5232ab,48029ef7c0a8000600e7770b24e5d36f,48032bf8c0a800060050c250f1337e8b</value>
+        <variable display_value="Visible">56e6bee65320220002c6435723dc34b9</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_atf_step_efbdf8cb97970110234e30d3f153af85</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="UI Action Visibility">0925fc8397970110234e30d3f153afd8</copied_from><description>Confirm that the following UI actions are visible: Update, Save, Insert, Insert and Stay
+Confirm that the following UI actions are not visible: Delete, Submit, Restore Record, Save, Insert and Stay, Insert, Save, Save, Show Archive Log Entry, Cancel, Archive Record, Restore Record and Related Records, Update, Search, Run Diagnostics, Delete, Save
+With a failure timeout of 5 Seconds</description><display_name>UI Action Visibility</display_name><inputs/><mugshots_cache_json/><notes/><order>18</order><snapshot/><step_config display_value="UI Action Visibility">d8fdf5e10b1022009cfdc71437673adc</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 21:18:40</sys_created_on><sys_id>efbdf8cb97970110234e30d3f153af85</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UI Action Visibility</sys_name><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_atf_step_efbdf8cb97970110234e30d3f153af85</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 21:18:40</sys_updated_on><table>x_402400_reporting_information</table><test display_value="Information - Admin - Create/Read/Update/Delete">bf7d748b97970110234e30d3f153af19</test><timeout>1970-01-01 00:00:05</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=efbdf8cb97970110234e30d3f153af85"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>efbdf8cb97970110234e30d3f153af85</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 21:18:40</sys_created_on><sys_id>67bdf8cb97970110234e30d3f153af87</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 21:18:40</sys_updated_on><value>x_402400_reporting_information</value><variable display_value="Table">ba62b4075320220002c6435723dc34b9</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>efbdf8cb97970110234e30d3f153af85</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 21:18:40</sys_created_on><sys_id>a3bdf8cb97970110234e30d3f153af87</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 21:18:40</sys_updated_on><value>1f12506f7f532200348ef0d8adfa9139,42ec73550a0a0b3400c97002208d0901,0efdf94d9f2120007aaa207c7f4bcc79,42e780d40a0a0b34007e0d4a52d33405,4326b1f70a0a0b340008f9a773d47393,4326fb390a0a0b340099a93580d98f32,432ace8b0a0a0b34006b02832660c894,56ff8c677f532200348ef0d8adfa91c4,622945139f0120007aaa207c7f4bcc54,793dee7e7f932200348ef0d8adfa91ba,a315c1539f0120007aaa207c7f4bccff,ebe666370f10101080354304f6767eda,sysverb_post_update,sysverb_query,54aeabd1b30013003e5362ff86a8dc73,57dc4c970a0a0b3400f8f0538d3faf94,b1cbe4637f172200348ef0d8adfa91f0</value><variable display_value="Not visible">6619c7aa5320220002c6435723dc34e2</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>efbdf8cb97970110234e30d3f153af85</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 21:18:40</sys_created_on><sys_id>ebbdf8cb97970110234e30d3f153af86</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 21:18:40</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">bc43e004c76733005e5c45b881c26046</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>efbdf8cb97970110234e30d3f153af85</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 21:18:40</sys_created_on><sys_id>efbdf8cb97970110234e30d3f153af86</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 21:18:40</sys_updated_on><value>42df02e20a0a0b340080e61b551f2909,47fd7f4dc0a8000600a552278b5232ab,48029ef7c0a8000600e7770b24e5d36f,48032bf8c0a800060050c250f1337e8b</value><variable display_value="Visible">56e6bee65320220002c6435723dc34b9</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>2071780512</payload_hash>
+        <record_name>UI Action Visibility</record_name>
+        <reverted_from/>
+        <source>e3feff1a97130110234e30d3f153af23</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:18:40</sys_created_on>
+        <sys_id>ebbdf8cb97970110234e30d3f153af89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180afd6a29e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:18:40</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>27bdf8cb68970110601a032894167d89</update_guid>
+        <update_guid_history>27bdf8cb68970110601a032894167d89:2071780512</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:19:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>4417bc43962942c29877d6928d0b1389</sys_id>
+        <sys_metadata>efbdf8cb97970110234e30d3f153af85</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UI Action Visibility</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_atf_step_efbdf8cb97970110234e30d3f153af85</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_efbdf8cb97970110234e30d3f153af85">ebbdf8cb97970110234e30d3f153af89</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:19:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

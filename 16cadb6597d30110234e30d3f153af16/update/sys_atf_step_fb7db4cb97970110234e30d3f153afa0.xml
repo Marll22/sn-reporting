@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Open a New Form">3e94a84397570110234e30d3f153af88</copied_from>
+        <description>Open a new 'Information' form</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot display_value="2673e3c1e7f8e0c40a93e52d213e7763">e2d4c1c397d70110234e30d3f153afde</snapshot>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:17:36</sys_created_on>
+        <sys_id>fb7db4cb97970110234e30d3f153afa0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_fb7db4cb97970110234e30d3f153afa0</sys_update_name>
+        <sys_updated_by>82c4c1c397d70110234e30d3f153af9e</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:49:44</sys_updated_on>
+        <table>x_402400_reporting_information</table>
+        <test display_value="Information - Admin - Create/Read/Update/Delete">bf7d748b97970110234e30d3f153af19</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=fb7db4cb97970110234e30d3f153afa0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>fb7db4cb97970110234e30d3f153afa0</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:17:36</sys_created_on>
+        <sys_id>3b7db4cb97970110234e30d3f153afa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:17:36</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">6f2a59a4e7133300b5646ea8c2f6a975</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>fb7db4cb97970110234e30d3f153afa0</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:17:36</sys_created_on>
+        <sys_id>bf7db4cb97970110234e30d3f153afa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:17:36</sys_updated_on>
+        <value>x_402400_reporting_information</value>
+        <variable display_value="Table">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>fb7db4cb97970110234e30d3f153afa0</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 21:17:36</sys_created_on>
+        <sys_id>fb7db4cb97970110234e30d3f153afa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 21:17:36</sys_updated_on>
+        <value/>
+        <variable display_value="View">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_05317cd10b10220050192f15d6673af8^id=fb7db4cb97970110234e30d3f153afa0"/>
+</record_update>
