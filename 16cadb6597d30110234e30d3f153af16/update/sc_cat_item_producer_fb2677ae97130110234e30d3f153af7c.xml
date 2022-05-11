@@ -71,12 +71,9 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
-        <script><![CDATA[var topic = producer.topic;
-var grTopic = new GlideRecord('x_402400_reporting_topic');
-grTopic.addQuery('topic', topic);
-grTopic.query();
-if (grTopic.next())
-    current.topic = grTopic.getUniqueValue();]]></script>
+        <script><![CDATA[var grTopic = new GlideRecord('x_402400_reporting_topic');
+grTopic.get('topic', producer.topic);
+current.topic = grTopic.getUniqueValue();]]></script>
         <short_description>Information</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
@@ -85,14 +82,14 @@ if (grTopic.next())
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-09 21:27:32</sys_created_on>
         <sys_id>fb2677ae97130110234e30d3f153af7c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>Information</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sc_cat_item_producer_fb2677ae97130110234e30d3f153af7c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-10 17:41:50</sys_updated_on>
+        <sys_updated_on>2022-05-11 17:06:49</sys_updated_on>
         <table_name>x_402400_reporting_information</table_name>
         <taxonomy_topic/>
         <template/>
