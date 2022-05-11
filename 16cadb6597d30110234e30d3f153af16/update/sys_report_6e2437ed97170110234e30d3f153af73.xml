@@ -78,7 +78,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source display_value="Information (Information)">67b27fad97170110234e30d3f153af20</report_source>
-        <roles/>
+        <roles>x_402400_reporting.admin,x_402400_reporting.manager</roles>
         <row>date</row>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -106,14 +106,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-06 18:44:47</sys_created_on>
         <sys_id>6e2437ed97170110234e30d3f153af73</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>Information</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sys_report_6e2437ed97170110234e30d3f153af73</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-07 00:02:58</sys_updated_on>
+        <sys_updated_on>2022-05-11 16:03:17</sys_updated_on>
         <table>x_402400_reporting_information</table>
         <title>Information</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
@@ -124,7 +124,7 @@
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
-        <user>6816f79cc0a8016401c5a33be04be441</user>
+        <user>GLOBAL</user>
         <x_axis_allow_decimals>true</x_axis_allow_decimals>
         <x_axis_display_grid>false</x_axis_display_grid>
         <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>
