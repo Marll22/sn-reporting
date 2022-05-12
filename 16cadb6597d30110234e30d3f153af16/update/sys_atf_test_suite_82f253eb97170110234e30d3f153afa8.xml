@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <input_filter/>
+        <name>List</name>
+        <parent display_value="Topic">14b2dfab97170110234e30d3f153af67</parent>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-12 21:27:43</sys_created_on>
+        <sys_id>82f253eb97170110234e30d3f153afa8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_test_suite_82f253eb97170110234e30d3f153afa8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-12 21:27:43</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>
