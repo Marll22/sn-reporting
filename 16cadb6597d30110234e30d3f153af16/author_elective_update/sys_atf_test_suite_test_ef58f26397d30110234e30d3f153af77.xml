@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="DELETE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-12 19:32:00</sys_created_on>
+        <sys_id>ef58f26397d30110234e30d3f153af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c968326397d30110234e30d3f153af72</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_ef58f26397d30110234e30d3f153af77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-12 19:32:00</sys_updated_on>
+        <test display_value="Report">c968326397d30110234e30d3f153af72</test>
+        <test_suite display_value="Reporting">c41bed31971f0110234e30d3f153af54</test_suite>
+    </sys_atf_test_suite_test>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_atf_test_suite_test_ef58f26397d30110234e30d3f153af77</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test"><sys_atf_test_suite_test action="INSERT_OR_UPDATE"><abort_on_failure>false</abort_on_failure><order/><sys_class_name>sys_atf_test_suite_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-12 19:32:00</sys_created_on><sys_id>ef58f26397d30110234e30d3f153af77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c968326397d30110234e30d3f153af72</sys_name><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_atf_test_suite_test_ef58f26397d30110234e30d3f153af77</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-12 19:32:00</sys_updated_on><test display_value="Report">c968326397d30110234e30d3f153af72</test><test_suite display_value="Reporting">c41bed31971f0110234e30d3f153af54</test_suite></sys_atf_test_suite_test></record_update>]]></payload>
+        <payload_hash>-1384518167</payload_hash>
+        <record_name>c968326397d30110234e30d3f153af72</record_name>
+        <reverted_from/>
+        <source>e3feff1a97130110234e30d3f153af23</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-12 19:32:00</sys_created_on>
+        <sys_id>e8883a6397d30110234e30d3f153af22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180b9c1b2650000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-12 19:32:00</sys_updated_on>
+        <type>Test Suite Test</type>
+        <update_guid>24883a6326d301105340f5b81b772922</update_guid>
+        <update_guid_history>24883a6326d301105340f5b81b772922:-1384518167</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-12 19:37:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_suite_test">sys_atf_test_suite_test</sys_db_object>
+        <sys_id>185b0b63526e4c88862d6f9618bbc240</sys_id>
+        <sys_metadata>ef58f26397d30110234e30d3f153af77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c968326397d30110234e30d3f153af72</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_atf_test_suite_test_ef58f26397d30110234e30d3f153af77</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_suite_test_ef58f26397d30110234e30d3f153af77">e8883a6397d30110234e30d3f153af22</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-12 19:37:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_parameter_set">
+    <sys_atf_parameter_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>First name = Reporting
+Last name = Admin
+Role = x_402400_reporting.admin</description>
+        <order>1</order>
+        <parameters/>
+        <sys_class_name>sys_atf_parameter_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-12 19:44:06</sys_created_on>
+        <sys_id>f63bba2797d30110234e30d3f153afba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_parameter_set_f63bba2797d30110234e30d3f153afba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-12 19:44:06</sys_updated_on>
+        <test display_value="Report - Admin/Manager - Visibile">ce8a36e397d30110234e30d3f153af43</test>
+    </sys_atf_parameter_set>
+    <sys_variable_value action="delete_multiple" query="document_key=f63bba2797d30110234e30d3f153afba"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>f63bba2797d30110234e30d3f153afba</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-12 19:44:06</sys_created_on>
+        <sys_id>714bfa2797d30110234e30d3f153af0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-12 19:44:06</sys_updated_on>
+        <value>Admin</value>
+        <variable display_value="Last name">95fa362797d30110234e30d3f153afa1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>f63bba2797d30110234e30d3f153afba</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-12 19:44:06</sys_created_on>
+        <sys_id>bd4bfa2797d30110234e30d3f153af0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-12 19:44:06</sys_updated_on>
+        <value>bde525f997db0110234e30d3f153af9b</value>
+        <variable display_value="Role">b41bf62797d30110234e30d3f153af80</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>f63bba2797d30110234e30d3f153afba</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-12 19:44:06</sys_created_on>
+        <sys_id>f94bfa2797d30110234e30d3f153af0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-12 19:44:06</sys_updated_on>
+        <value>Reporting</value>
+        <variable display_value="First name">c2ca322797d30110234e30d3f153aff6</variable>
+    </sys_variable_value>
+</record_update>
