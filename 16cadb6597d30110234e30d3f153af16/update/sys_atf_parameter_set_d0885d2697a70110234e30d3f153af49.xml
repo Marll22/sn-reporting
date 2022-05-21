@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_parameter_set">
+    <sys_atf_parameter_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Type = Test Type
+Topic = Test Topic</description>
+        <order>1</order>
+        <parameters/>
+        <sys_class_name>sys_atf_parameter_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 20:14:35</sys_created_on>
+        <sys_id>d0885d2697a70110234e30d3f153af49</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_parameter_set_d0885d2697a70110234e30d3f153af49</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 20:36:53</sys_updated_on>
+        <test display_value="Record Producer">d5c1faab97930110234e30d3f153afa6</test>
+    </sys_atf_parameter_set>
+    <sys_variable_value action="delete_multiple" query="document_key=d0885d2697a70110234e30d3f153af49"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>d0885d2697a70110234e30d3f153af49</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 20:36:53</sys_created_on>
+        <sys_id>32ad11ea97a70110234e30d3f153af50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 20:36:53</sys_updated_on>
+        <value>Test Type</value>
+        <variable display_value="Type">b18d9daa97a70110234e30d3f153afec</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>d0885d2697a70110234e30d3f153af49</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 20:36:53</sys_created_on>
+        <sys_id>7ead11ea97a70110234e30d3f153af4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 20:36:53</sys_updated_on>
+        <value>Test Topic</value>
+        <variable display_value="Topic">247d1daa97a70110234e30d3f153af9b</variable>
+    </sys_variable_value>
+</record_update>
