@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Create and impersonate user with the following values:
+First name = Reporting
+and Last name = User
+With roles: x_402400_reporting.user</description>
+        <display_name>Create a User</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:04:00</sys_created_on>
+        <sys_id>d7ecfa7c97230110234e30d3f153af97</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>Create a User</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_d7ecfa7c97230110234e30d3f153af97</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:04:42</sys_updated_on>
+        <table>sys_user</table>
+        <test display_value="Information - List - User - Read">194bf63c97230110234e30d3f153af15</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=d7ecfa7c97230110234e30d3f153af97"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d7ecfa7c97230110234e30d3f153af97</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:04:00</sys_created_on>
+        <sys_id>23fc7abc97230110234e30d3f153af42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:04:00</sys_updated_on>
+        <value>User</value>
+        <variable display_value="Last name">6f69fc4aff6433008d3f5d9ad53bf18c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d7ecfa7c97230110234e30d3f153af97</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:04:00</sys_created_on>
+        <sys_id>6bfc7abc97230110234e30d3f153af42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:04:00</sys_updated_on>
+        <value/>
+        <variable display_value="User field values">1778a7480f20101091d0f00c97767e03</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d7ecfa7c97230110234e30d3f153af97</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:04:00</sys_created_on>
+        <sys_id>6ffc7abc97230110234e30d3f153af41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:04:00</sys_updated_on>
+        <value/>
+        <variable display_value="Groups">b27b2b29ff6033008d3f5d9ad53bf164</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d7ecfa7c97230110234e30d3f153af97</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:04:00</sys_created_on>
+        <sys_id>a7fc7abc97230110234e30d3f153af42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:04:00</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="Table">ff06ab840f20101091d0f00c97767e6d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d7ecfa7c97230110234e30d3f153af97</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:04:00</sys_created_on>
+        <sys_id>abfc7abc97230110234e30d3f153af41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:04:00</sys_updated_on>
+        <value>bfda57a597d30110234e30d3f153afe9</value>
+        <variable display_value="Roles">8c07aba5ff6033008d3f5d9ad53bf13b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d7ecfa7c97230110234e30d3f153af97</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:04:00</sys_created_on>
+        <sys_id>e3fc7abc97230110234e30d3f153af42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:04:00</sys_updated_on>
+        <value>Reporting</value>
+        <variable display_value="First name">1985e0ceff2433008d3f5d9ad53bf1ba</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d7ecfa7c97230110234e30d3f153af97</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:04:00</sys_created_on>
+        <sys_id>e7fc7abc97230110234e30d3f153af41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:04:00</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Impersonate this user">98c44875ffa033008d3f5d9ad53bf1fa</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d^id=d7ecfa7c97230110234e30d3f153af97"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_atf_step_d7ecfa7c97230110234e30d3f153af97</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Create and impersonate user with the following values:
+First name = Reporting
+and Last name = User
+With roles: x_402400_reporting.user</description><display_name>Create a User</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 17:04:00</sys_created_on><sys_id>d7ecfa7c97230110234e30d3f153af97</sys_id><sys_mod_count>20</sys_mod_count><sys_name>Create a User</sys_name><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_atf_step_d7ecfa7c97230110234e30d3f153af97</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:04:42</sys_updated_on><table>sys_user</table><test display_value="Information - List - User - Read">194bf63c97230110234e30d3f153af15</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=d7ecfa7c97230110234e30d3f153af97"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d7ecfa7c97230110234e30d3f153af97</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 17:04:00</sys_created_on><sys_id>23fc7abc97230110234e30d3f153af42</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-16 17:04:00</sys_updated_on><value>User</value><variable display_value="Last name">6f69fc4aff6433008d3f5d9ad53bf18c</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d7ecfa7c97230110234e30d3f153af97</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 17:04:00</sys_created_on><sys_id>6bfc7abc97230110234e30d3f153af42</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-16 17:04:00</sys_updated_on><value/><variable display_value="User field values">1778a7480f20101091d0f00c97767e03</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d7ecfa7c97230110234e30d3f153af97</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 17:04:00</sys_created_on><sys_id>6ffc7abc97230110234e30d3f153af41</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-16 17:04:00</sys_updated_on><value/><variable display_value="Groups">b27b2b29ff6033008d3f5d9ad53bf164</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d7ecfa7c97230110234e30d3f153af97</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 17:04:00</sys_created_on><sys_id>a7fc7abc97230110234e30d3f153af42</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-16 17:04:00</sys_updated_on><value>sys_user</value><variable display_value="Table">ff06ab840f20101091d0f00c97767e6d</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d7ecfa7c97230110234e30d3f153af97</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 17:04:00</sys_created_on><sys_id>abfc7abc97230110234e30d3f153af41</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-16 17:04:00</sys_updated_on><value>bfda57a597d30110234e30d3f153afe9</value><variable display_value="Roles">8c07aba5ff6033008d3f5d9ad53bf13b</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d7ecfa7c97230110234e30d3f153af97</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 17:04:00</sys_created_on><sys_id>e3fc7abc97230110234e30d3f153af42</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-16 17:04:00</sys_updated_on><value>Reporting</value><variable display_value="First name">1985e0ceff2433008d3f5d9ad53bf1ba</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d7ecfa7c97230110234e30d3f153af97</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 17:04:00</sys_created_on><sys_id>e7fc7abc97230110234e30d3f153af41</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-16 17:04:00</sys_updated_on><value>1</value><variable display_value="Impersonate this user">98c44875ffa033008d3f5d9ad53bf1fa</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d^id=d7ecfa7c97230110234e30d3f153af97"/></record_update>]]></payload>
+        <payload_hash>-1231922742</payload_hash>
+        <record_name>Create a User</record_name>
+        <reverted_from/>
+        <source>e3feff1a97130110234e30d3f153af23</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:04:42</sys_created_on>
+        <sys_id>95c1fd22972b0110234e30d3f153af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180e8a6ba070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:04:42</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>9dc1fd22372b01107cc7d9b7329c1553</update_guid>
+        <update_guid_history>9dc1fd22372b01107cc7d9b7329c1553:-1231922742,41c1fd22d82b0110cdd484657254ec2c:299745449,865ea56ea9e701102b8027a208a05170:1831413640,13a8a9e67fe70110be3ca96e150d008c:-931885465,af8729a69de701100ad3f509000ca447:1831413640,556729a600e701108da1e05648be201a:299745449,ba1f3e304a630110d13541feb89442e9:-1231922742,3e1f3e301963011007d4aabd72d7dada:299745449,b61f3e3089630110d93c7d1713bb1a9f:1831413640,093ebefc5e2301109fb8ebb3813f346e:-931885465,bffc7abc402301107edcb65d4c9f0b44:1831413640</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:04:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>bda2946fa63844a0b9839959bdcc6204</sys_id>
+        <sys_metadata>d7ecfa7c97230110234e30d3f153af97</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a User</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_atf_step_d7ecfa7c97230110234e30d3f153af97</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_d7ecfa7c97230110234e30d3f153af97">95c1fd22972b0110234e30d3f153af54</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:04:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

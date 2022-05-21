@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Field State Validation">7d199b6397570110234e30d3f153afbb</copied_from>
+        <description>Assert the following:
+The following fields are visible: Type, Topic
+The following fields are not visible: Created, Created by, Tags, Updated, Updated by, Updates
+The following fields are not read only: Type, Topic
+The following fields are mandatory: Type, Topic
+With a failure timeout of 5 Seconds</description>
+        <display_name>Field State Validation</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <snapshot/>
+        <step_config display_value="Field State Validation">1dfece935332120028bc29cac2dc3478</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>35a3fda2972b0110234e30d3f153afb4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Field State Validation</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_35a3fda2972b0110234e30d3f153afb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:14:33</sys_updated_on>
+        <table>x_402400_reporting_topic</table>
+        <test display_value="Topic - Form - User - Read">79a3b1a2972b0110234e30d3f153af02</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=35a3fda2972b0110234e30d3f153afb4"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>35a3fda2972b0110234e30d3f153afb4</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>35a3fda2972b0110234e30d3f153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value>x_402400_reporting_topic</value>
+        <variable display_value="Table">80f953535320220002c6435723dc340f</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>35a3fda2972b0110234e30d3f153afb4</document_key>
+        <order>210</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>39a3fda2972b0110234e30d3f153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value>sys_created_on,sys_created_by,sys_tags,sys_updated_on,sys_updated_by,sys_mod_count</value>
+        <variable display_value="Not visible">e81ad3535320220002c6435723dc340c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>35a3fda2972b0110234e30d3f153afb4</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>71a3fda2972b0110234e30d3f153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value>type,topic</value>
+        <variable display_value="Mandatory">6e5a1b535320220002c6435723dc3498</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>35a3fda2972b0110234e30d3f153afb4</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>75a3fda2972b0110234e30d3f153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value/>
+        <variable display_value="Read only">592a17535320220002c6435723dc34d7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>35a3fda2972b0110234e30d3f153afb4</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>b1a3fda2972b0110234e30d3f153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value>type,topic</value>
+        <variable display_value="Visible">0cd9df135320220002c6435723dc3426</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>35a3fda2972b0110234e30d3f153afb4</document_key>
+        <order>310</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>bda3fda2972b0110234e30d3f153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value>type,topic</value>
+        <variable display_value="Not read only">e63a97535320220002c6435723dc34b8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>35a3fda2972b0110234e30d3f153afb4</document_key>
+        <order>410</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>f9a3fda2972b0110234e30d3f153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value/>
+        <variable display_value="Not mandatory">787a9b535320220002c6435723dc3455</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>35a3fda2972b0110234e30d3f153afb4</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>fda3fda2972b0110234e30d3f153afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">b1fefcde73633300b19898b8caf6a7af</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_atf_step_35a3fda2972b0110234e30d3f153afb4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Field State Validation">7d199b6397570110234e30d3f153afbb</copied_from><description>Assert the following:
+The following fields are visible: Type, Topic
+The following fields are not visible: Created, Created by, Tags, Updated, Updated by, Updates
+The following fields are not read only: Type, Topic
+The following fields are mandatory: Type, Topic
+With a failure timeout of 5 Seconds</description><display_name>Field State Validation</display_name><inputs/><mugshots_cache_json/><notes/><order>5</order><snapshot/><step_config display_value="Field State Validation">1dfece935332120028bc29cac2dc3478</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>35a3fda2972b0110234e30d3f153afb4</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Field State Validation</sys_name><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_atf_step_35a3fda2972b0110234e30d3f153afb4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:14:33</sys_updated_on><table>x_402400_reporting_topic</table><test display_value="Topic - Form - User - Read">79a3b1a2972b0110234e30d3f153af02</test><timeout>1970-01-01 00:00:05</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=35a3fda2972b0110234e30d3f153afb4"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>35a3fda2972b0110234e30d3f153afb4</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>35a3fda2972b0110234e30d3f153afb6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value>x_402400_reporting_topic</value><variable display_value="Table">80f953535320220002c6435723dc340f</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>35a3fda2972b0110234e30d3f153afb4</document_key><order>210</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>39a3fda2972b0110234e30d3f153afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value>sys_created_on,sys_created_by,sys_tags,sys_updated_on,sys_updated_by,sys_mod_count</value><variable display_value="Not visible">e81ad3535320220002c6435723dc340c</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>35a3fda2972b0110234e30d3f153afb4</document_key><order>400</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>71a3fda2972b0110234e30d3f153afb6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value>type,topic</value><variable display_value="Mandatory">6e5a1b535320220002c6435723dc3498</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>35a3fda2972b0110234e30d3f153afb4</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>75a3fda2972b0110234e30d3f153afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value/><variable display_value="Read only">592a17535320220002c6435723dc34d7</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>35a3fda2972b0110234e30d3f153afb4</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>b1a3fda2972b0110234e30d3f153afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value>type,topic</value><variable display_value="Visible">0cd9df135320220002c6435723dc3426</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>35a3fda2972b0110234e30d3f153afb4</document_key><order>310</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>bda3fda2972b0110234e30d3f153afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value>type,topic</value><variable display_value="Not read only">e63a97535320220002c6435723dc34b8</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>35a3fda2972b0110234e30d3f153afb4</document_key><order>410</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>f9a3fda2972b0110234e30d3f153afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value/><variable display_value="Not mandatory">787a9b535320220002c6435723dc3455</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>35a3fda2972b0110234e30d3f153afb4</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>fda3fda2972b0110234e30d3f153afb4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">b1fefcde73633300b19898b8caf6a7af</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>1988756131</payload_hash>
+        <record_name>Field State Validation</record_name>
+        <reverted_from/>
+        <source>e3feff1a97130110234e30d3f153af23</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:14:33</sys_created_on>
+        <sys_id>2d04b5e2972b0110234e30d3f153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180e8afc0600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:14:33</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>2504b5e26b2b01104e11108fbdf77ed3</update_guid>
+        <update_guid_history>2504b5e26b2b01104e11108fbdf77ed3:1988756131,39a3fda26f2b01108afe8b07ca0ad1d1:-688237632</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:14:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>3872f11bc9c847ea900811912787b6a4</sys_id>
+        <sys_metadata>35a3fda2972b0110234e30d3f153afb4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field State Validation</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_atf_step_35a3fda2972b0110234e30d3f153afb4</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_35a3fda2972b0110234e30d3f153afb4">2d04b5e2972b0110234e30d3f153afd3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:14:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Set Field Values">347fdb2b97570110234e30d3f153af66</copied_from>
+        <description>Set the following values on the form:
+Topic = Topic
+and Type = Type</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>b1a3fda2972b0110234e30d3f153afd9</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_b1a3fda2972b0110234e30d3f153afd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:15:02</sys_updated_on>
+        <table>x_402400_reporting_topic</table>
+        <test display_value="Topic - Form - User - Read">79a3b1a2972b0110234e30d3f153af02</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=b1a3fda2972b0110234e30d3f153afd9"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b1a3fda2972b0110234e30d3f153afd9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>75a3fda2972b0110234e30d3f153afda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value>topic=Topic^type=Type^EQ</value>
+        <variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b1a3fda2972b0110234e30d3f153afd9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>b1a3fda2972b0110234e30d3f153afda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value>x_402400_reporting_topic</value>
+        <variable display_value="Table">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b1a3fda2972b0110234e30d3f153afd9</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:12:56</sys_created_on>
+        <sys_id>fda3fda2972b0110234e30d3f153afd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:12:56</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e^id=b1a3fda2972b0110234e30d3f153afd9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_atf_step_b1a3fda2972b0110234e30d3f153afd9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Set Field Values">347fdb2b97570110234e30d3f153af66</copied_from><description>Set the following values on the form:
+Topic = Topic
+and Type = Type</description><display_name>Set Field Values</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><snapshot/><step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>b1a3fda2972b0110234e30d3f153afd9</sys_id><sys_mod_count>10</sys_mod_count><sys_name>Set Field Values</sys_name><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_atf_step_b1a3fda2972b0110234e30d3f153afd9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:15:02</sys_updated_on><table>x_402400_reporting_topic</table><test display_value="Topic - Form - User - Read">79a3b1a2972b0110234e30d3f153af02</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=b1a3fda2972b0110234e30d3f153afd9"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b1a3fda2972b0110234e30d3f153afd9</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>75a3fda2972b0110234e30d3f153afda</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value>topic=Topic^type=Type^EQ</value><variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b1a3fda2972b0110234e30d3f153afd9</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>b1a3fda2972b0110234e30d3f153afda</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value>x_402400_reporting_topic</value><variable display_value="Table">424ca6465320220002c6435723dc34b5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b1a3fda2972b0110234e30d3f153afd9</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-21 22:12:56</sys_created_on><sys_id>fda3fda2972b0110234e30d3f153afd9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-21 22:12:56</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e^id=b1a3fda2972b0110234e30d3f153afd9"/></record_update>]]></payload>
+        <payload_hash>-704469879</payload_hash>
+        <record_name>Set Field Values</record_name>
+        <reverted_from/>
+        <source>e3feff1a97130110234e30d3f153af23</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:15:02</sys_created_on>
+        <sys_id>ec2479e2972b0110234e30d3f153afa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180e8b02eae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:15:02</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>e42479e2f22b0110deebec867037d5a4</update_guid>
+        <update_guid_history>e42479e2f22b0110deebec867037d5a4:-704469879,102479e2092b0110ed3cd927652c9a33:-221622006,002439e2cf2b0110bfcbd21a53b3f7f3:261225867,f71439e2a92b01105470fd2f1dcc95b3:744073740,a104b5e2cd2b0110e0ff6aa4c36dccc9:1226921613,b1a3fda2ca2b011098b60df8092bd8dc:258714716</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-21 22:15:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>38066a26db4e44a6862eb675f7315724</sys_id>
+        <sys_metadata>b1a3fda2972b0110234e30d3f153afd9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_atf_step_b1a3fda2972b0110234e30d3f153afd9</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_b1a3fda2972b0110234e30d3f153afd9">ec2479e2972b0110234e30d3f153afa4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-21 22:15:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
