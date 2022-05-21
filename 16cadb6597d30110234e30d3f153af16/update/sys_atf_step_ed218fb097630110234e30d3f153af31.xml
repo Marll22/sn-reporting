@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Confirm that the following variables are visible: Type, Topic
+Confirm that the following variables are not read only: Type, Topic
+Confirm that the following variables are mandatory: Type, Topic
+</description>
+        <display_name>Variable State Validation</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>6</order>
+        <snapshot/>
+        <step_config display_value="Variable State Validation">33f637e8c3ba220076173b0ac3d3aee1</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:22:36</sys_created_on>
+        <sys_id>ed218fb097630110234e30d3f153af31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Variable State Validation</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_ed218fb097630110234e30d3f153af31</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:22:36</sys_updated_on>
+        <table/>
+        <test display_value="Record Producer">d5c1faab97930110234e30d3f153afa6</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=ed218fb097630110234e30d3f153af31"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed218fb097630110234e30d3f153af31</document_key>
+        <order>700</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:22:36</sys_created_on>
+        <sys_id>044147b097630110234e30d3f153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:22:36</sys_updated_on>
+        <value/>
+        <variable display_value="Not mandatory">ab59772cc3ba220076173b0ac3d3ae9c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed218fb097630110234e30d3f153af31</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:22:36</sys_created_on>
+        <sys_id>404147b097630110234e30d3f153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:22:36</sys_updated_on>
+        <value/>
+        <variable display_value="Not visible">32e8ffe8c3ba220076173b0ac3d3ae6e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed218fb097630110234e30d3f153af31</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:22:36</sys_created_on>
+        <sys_id>4c4147b097630110234e30d3f153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:22:36</sys_updated_on>
+        <value>3b2633ee97130110234e30d3f153af4d,f72633ee97130110234e30d3f153af71</value>
+        <variable display_value="Mandatory">5149372cc3ba220076173b0ac3d3ae98</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed218fb097630110234e30d3f153af31</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:22:36</sys_created_on>
+        <sys_id>884147b097630110234e30d3f153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:22:36</sys_updated_on>
+        <value>3b2633ee97130110234e30d3f153af4d,f72633ee97130110234e30d3f153af71</value>
+        <variable display_value="Not read only">e439f32cc3ba220076173b0ac3d3ae90</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed218fb097630110234e30d3f153af31</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:22:36</sys_created_on>
+        <sys_id>8c4147b097630110234e30d3f153afd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:22:36</sys_updated_on>
+        <value/>
+        <variable display_value="Read only">d829b32cc3ba220076173b0ac3d3aea1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed218fb097630110234e30d3f153af31</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:22:36</sys_created_on>
+        <sys_id>c44147b097630110234e30d3f153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:22:36</sys_updated_on>
+        <value>fb2677ae97130110234e30d3f153af7c</value>
+        <variable display_value="Catalog item">ae58fbe8c3ba220076173b0ac3d3aeac</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed218fb097630110234e30d3f153af31</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 17:22:36</sys_created_on>
+        <sys_id>c84147b097630110234e30d3f153afd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 17:22:36</sys_updated_on>
+        <value>3b2633ee97130110234e30d3f153af4d,f72633ee97130110234e30d3f153af71</value>
+        <variable display_value="Visible">a7987fe8c3ba220076173b0ac3d3ae1d</variable>
+    </sys_variable_value>
+</record_update>
