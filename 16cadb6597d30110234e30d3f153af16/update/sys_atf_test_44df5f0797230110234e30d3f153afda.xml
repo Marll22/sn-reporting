@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Topic - Form - Manager - Create/Read">50635feb97170110234e30d3f153af22</copied_from>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>Topic - Form - Admin - Create/Read/Update/Delete</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 19:22:28</sys_created_on>
+        <sys_id>44df5f0797230110234e30d3f153afda</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Topic - Form - Admin - Create/Read/Update/Delete</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_test_44df5f0797230110234e30d3f153afda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-23 19:22:55</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=44df5f0797230110234e30d3f153afda"/>
+</record_update>

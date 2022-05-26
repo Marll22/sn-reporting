@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Submit the current form and confirm form submitted to server</description>
+        <display_name>Submit a Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <snapshot/>
+        <step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 16:11:40</sys_created_on>
+        <sys_id>fdbdff9797a30110234e30d3f153afb7</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Submit a Form</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_fdbdff9797a30110234e30d3f153afb7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 16:21:26</sys_updated_on>
+        <table/>
+        <test display_value="Topic - List - Manager- Read/Create">a73bbb1797a30110234e30d3f153af5f</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=fdbdff9797a30110234e30d3f153afb7"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fdbdff9797a30110234e30d3f153afb7</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 16:11:40</sys_created_on>
+        <sys_id>b2bdf3d797a30110234e30d3f153affb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 16:11:40</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">ae8b91c9ffa333008d3f5d9ad53bf1ba</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fdbdff9797a30110234e30d3f153afb7</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 16:11:40</sys_created_on>
+        <sys_id>febdf3d797a30110234e30d3f153affa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 16:11:40</sys_updated_on>
+        <value>form_submitted_to_server</value>
+        <variable display_value="Assert type">c796d40497302200abe4bb7503ac4ad8</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="reporting">16cadb6597d30110234e30d3f153af16</application>
+        <file_path/>
+        <instance_id>fe335d401ba9c11032182f8dee4bcb95</instance_id>
+        <instance_name>dev124680</instance_name>
+        <name>sys_atf_step_fdbdff9797a30110234e30d3f153afb7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Submit the current form and confirm form submitted to server</description><display_name>Submit a Form</display_name><inputs/><mugshots_cache_json/><notes/><order>5</order><snapshot/><step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-24 16:11:40</sys_created_on><sys_id>fdbdff9797a30110234e30d3f153afb7</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Submit a Form</sys_name><sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package><sys_policy/><sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope><sys_update_name>sys_atf_step_fdbdff9797a30110234e30d3f153afb7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-24 16:21:26</sys_updated_on><table/><test display_value="Topic - List - Manager- Read/Create">a73bbb1797a30110234e30d3f153af5f</test><timeout>1970-01-01 00:00:05</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=fdbdff9797a30110234e30d3f153afb7"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fdbdff9797a30110234e30d3f153afb7</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-24 16:11:40</sys_created_on><sys_id>b2bdf3d797a30110234e30d3f153affb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-24 16:11:40</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">ae8b91c9ffa333008d3f5d9ad53bf1ba</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fdbdff9797a30110234e30d3f153afb7</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-24 16:11:40</sys_created_on><sys_id>febdf3d797a30110234e30d3f153affa</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-24 16:11:40</sys_updated_on><value>form_submitted_to_server</value><variable display_value="Assert type">c796d40497302200abe4bb7503ac4ad8</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-429443709</payload_hash>
+        <record_name>Submit a Form</record_name>
+        <reverted_from/>
+        <source>e3feff1a97130110234e30d3f153af23</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 16:21:26</sys_created_on>
+        <sys_id>8aff3f5b97a30110234e30d3f153af10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180f6df886f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 16:21:26</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>82ff3f5bcda30110e96549f422f0d810</update_guid>
+        <update_guid_history>82ff3f5bcda30110e96549f422f0d810:-429443709,71fffb5ba0a3011024f37d233bb3b2e4:266025442,01efbb5b45a30110ce83d7fe55826588:961494593,3ebdf3d7e7a3011037b5ba047fbcb4fc:266025442</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 16:21:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>88bc8f4c4dc84f4c8bc33acbf9221a90</sys_id>
+        <sys_metadata>fdbdff9797a30110234e30d3f153afb7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit a Form</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_scope_delete display_value="">06f8a2ac078f464d80194a3e17698081</sys_scope_delete>
+        <sys_update_name>sys_atf_step_fdbdff9797a30110234e30d3f153afb7</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_fdbdff9797a30110234e30d3f153afb7">8aff3f5b97a30110234e30d3f153af10</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 16:21:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

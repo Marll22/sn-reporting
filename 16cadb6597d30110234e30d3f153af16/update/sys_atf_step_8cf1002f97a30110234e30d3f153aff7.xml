@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Navigate to Module">726e3fd797a30110234e30d3f153afad</copied_from>
+        <description>Navigate to the 'All Topic' module in the 'Reporting' application</description>
+        <display_name>Navigate to Module</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <snapshot display_value="b055d165dcd5709912fa0d15c4131772">9d42228c97f30110234e30d3f153af5e</snapshot>
+        <step_config display_value="Navigate to Module">c832fc4073720300c79260bdfaf6a7a0</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 16:30:02</sys_created_on>
+        <sys_id>8cf1002f97a30110234e30d3f153aff7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Navigate to Module</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_8cf1002f97a30110234e30d3f153aff7</sys_update_name>
+        <sys_updated_by>aae1ae4c97f30110234e30d3f153af2b</sys_updated_by>
+        <sys_updated_on>2022-05-26 17:27:29</sys_updated_on>
+        <table>x_402400_reporting_topic</table>
+        <test display_value="Topic - List - Admin- Read/Create/Update/Delete">b3e1c8eb97a30110234e30d3f153af3a</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=8cf1002f97a30110234e30d3f153aff7"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8cf1002f97a30110234e30d3f153aff7</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 16:30:02</sys_created_on>
+        <sys_id>48f1002f97a30110234e30d3f153aff8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 16:30:02</sys_updated_on>
+        <value>54ab93e597d30110234e30d3f153af5e</value>
+        <variable display_value="Module">b6d2b40c73720300c79260bdfaf6a786</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_c832fc4073720300c79260bdfaf6a7a0^id=8cf1002f97a30110234e30d3f153aff7"/>
+</record_update>
