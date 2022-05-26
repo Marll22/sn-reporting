@@ -3,27 +3,27 @@
         <active>true</active>
         <copied_from/>
         <description>Click the list choice UI action 'Delete' in the 'Attachment' list
-Apply the action to the record '{{Step 7: Submit a Form.Record}}'</description>
+Apply the action to the record '{{Step 8: Submit a Form.Record}}'</description>
         <display_name>Click a List UI Action</display_name>
         <inputs/>
         <inputs/>
         <mugshots_cache_json/>
         <notes/>
-        <order>10</order>
+        <order>11</order>
         <snapshot display_value="0af1baa22cb1d56eb663ffe1f176dc35">cc253dd397970110234e30d3f153af49</snapshot>
         <step_config display_value="Click a List UI Action">c5f44934532332007e7829cac2dc342e</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-11 19:12:12</sys_created_on>
         <sys_id>594a255b97570110234e30d3f153afa9</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Click a List UI Action</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sys_atf_step_594a255b97570110234e30d3f153afa9</sys_update_name>
-        <sys_updated_by>3f84b1d397970110234e30d3f153af9a</sys_updated_by>
-        <sys_updated_on>2022-05-11 19:59:07</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 18:03:48</sys_updated_on>
         <table>x_402400_reporting_information</table>
         <test display_value="Information - List - Admin - Create/Read/Update/Delete">46b9611b97570110234e30d3f153af1d</test>
         <timeout>1970-01-01 00:00:05</timeout>

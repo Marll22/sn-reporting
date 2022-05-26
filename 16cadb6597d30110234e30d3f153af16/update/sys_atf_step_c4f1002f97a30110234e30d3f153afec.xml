@@ -8,21 +8,21 @@ Confirm that the following UI actions on the 'Topic' list are not visible: Delet
         <inputs/>
         <mugshots_cache_json/>
         <notes/>
-        <order>3</order>
+        <order>4</order>
         <snapshot/>
         <step_config display_value="Validate List UI Action Visibility">012105620fe2330091d0f00c97767ec4</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-24 16:30:02</sys_created_on>
         <sys_id>c4f1002f97a30110234e30d3f153afec</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Validate List UI Action Visibility</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sys_atf_step_c4f1002f97a30110234e30d3f153afec</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-24 16:30:02</sys_updated_on>
+        <sys_updated_on>2022-05-26 18:01:54</sys_updated_on>
         <table>x_402400_reporting_topic</table>
         <test display_value="Topic - List - Admin- Read/Create/Update/Delete">b3e1c8eb97a30110234e30d3f153af3a</test>
         <timeout/>

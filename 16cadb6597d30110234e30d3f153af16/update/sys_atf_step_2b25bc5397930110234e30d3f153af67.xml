@@ -10,21 +10,21 @@ Confirm the record was successfully inserted</description>
         <inputs/>
         <mugshots_cache_json/>
         <notes/>
-        <order>1</order>
+        <order>2</order>
         <snapshot/>
         <step_config display_value="Record Insert">14872288df60220062fe6c7a4df26319</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-11 15:20:24</sys_created_on>
         <sys_id>2b25bc5397930110234e30d3f153af67</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Record Insert</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sys_atf_step_2b25bc5397930110234e30d3f153af67</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-11 15:20:24</sys_updated_on>
+        <sys_updated_on>2022-05-26 18:06:12</sys_updated_on>
         <table>x_402400_reporting_topic</table>
         <test display_value="Information - List - Manager - Create/Read/Update">5cd1309f97530110234e30d3f153af55</test>
         <timeout/>

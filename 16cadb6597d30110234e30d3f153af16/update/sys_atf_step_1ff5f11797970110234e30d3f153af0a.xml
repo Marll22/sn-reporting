@@ -7,21 +7,21 @@
         <inputs/>
         <mugshots_cache_json>{"bd0f772a96643f56afa3ff0985ac869c":"{\"area\":\"Confirmation\",\"sn_atf_mugshot_short_description\":\"Button &lt;button&gt;: Delete\",\"inner_text\":\"Delete\",\"sn_atf_mugshot_long_description\":\"Button &lt;button&gt; [ok_button]: Delete in page area Confirmation\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\"Delete\",\"index\":1,\"type\":\"button\",\"version\":\"21.0\",\"sn_atf_mugshot_label_for_label_path\":\"\",\"interesting_element_path\":[\"body\",\"div\",\"rendered_body\",\"button\"],\"get_value_result\":\"Delete\",\"sn_atf_mugshot_tag_display_name\":\"Button &lt;button&gt;\",\"sn_atf_mugshot_value\":\"Delete\",\"tag\":\"button\",\"isDisabled\":false,\"id\":\"ok_button\",\"label_path\":[\"default\"],\"hash\":\"bd0f772a96643f56afa3ff0985ac869c\",\"html_value\":\"\"}"}</mugshots_cache_json>
         <notes/>
-        <order>11</order>
+        <order>12</order>
         <snapshot/>
         <step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-11 20:03:29</sys_created_on>
         <sys_id>1ff5f11797970110234e30d3f153af0a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Click Component (Custom UI)</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sys_atf_step_1ff5f11797970110234e30d3f153af0a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-11 20:03:29</sys_updated_on>
+        <sys_updated_on>2022-05-26 18:03:47</sys_updated_on>
         <table/>
         <test display_value="Information - List - Admin - Create/Read/Update/Delete">46b9611b97570110234e30d3f153af1d</test>
         <timeout/>

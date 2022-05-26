@@ -3,27 +3,27 @@
         <active>true</active>
         <copied_from/>
         <description>Set the following values on the form:
-Topic = {{Step 1: Record Insert.Record}}</description>
+Topic = {{Step 2: Record Insert.Record}}</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
         <inputs/>
         <mugshots_cache_json/>
         <notes/>
-        <order>6</order>
+        <order>7</order>
         <snapshot/>
         <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-11 18:44:46</sys_created_on>
         <sys_id>79706d5f97170110234e30d3f153af4d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sys_atf_step_79706d5f97170110234e30d3f153af4d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-21 18:32:08</sys_updated_on>
+        <sys_updated_on>2022-05-26 18:06:12</sys_updated_on>
         <table>x_402400_reporting_information</table>
         <test display_value="Information - List - Manager - Create/Read/Update">5cd1309f97530110234e30d3f153af55</test>
         <timeout/>
