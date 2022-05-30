@@ -3,8 +3,8 @@
         <active>true</active>
         <copied_from/>
         <description>Set the following values on the form:
-Topic = Topic
-and Type = Type</description>
+Topic = Test Topic
+and Type = Test Type</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
         <mugshots_cache_json/>
@@ -16,14 +16,14 @@ and Type = Type</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-12 22:22:22</sys_created_on>
         <sys_id>347fdb2b97570110234e30d3f153af66</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sys_atf_step_347fdb2b97570110234e30d3f153af66</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-12 22:22:22</sys_updated_on>
+        <sys_updated_on>2022-05-30 19:11:28</sys_updated_on>
         <table>x_402400_reporting_topic</table>
         <test display_value="Topic - Form - Manager - Create/Read">50635feb97170110234e30d3f153af22</test>
         <timeout/>
@@ -38,10 +38,10 @@ and Type = Type</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-12 22:22:22</sys_created_on>
         <sys_id>588f1f2b97570110234e30d3f153af42</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-12 22:22:22</sys_updated_on>
-        <value>topic=Topic^type=Type^EQ</value>
+        <sys_updated_on>2022-05-30 19:11:28</sys_updated_on>
+        <value>topic=Test Topic^type=Test Type^EQ</value>
         <variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">

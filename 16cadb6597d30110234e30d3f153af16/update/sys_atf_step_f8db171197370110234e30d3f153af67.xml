@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Answer the questions on the form as follows:
+Topic = </description>
+        <display_name>Set Variable Values</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <snapshot/>
+        <step_config display_value="Set Variable Values">323ca6e1c3b2220076173b0ac3d3aec1</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-30 18:51:31</sys_created_on>
+        <sys_id>f8db171197370110234e30d3f153af67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Variable Values</sys_name>
+        <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
+        <sys_update_name>sys_atf_step_f8db171197370110234e30d3f153af67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-30 18:51:31</sys_updated_on>
+        <table/>
+        <test display_value="Information - Form - User - Read">7de8500797170110234e30d3f153afb9</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=f8db171197370110234e30d3f153af67"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>f8db171197370110234e30d3f153af67</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-30 18:51:31</sys_created_on>
+        <sys_id>9bdb935197370110234e30d3f153af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-30 18:51:31</sys_updated_on>
+        <value>fb2677ae97130110234e30d3f153af7c</value>
+        <variable display_value="Item">571e6a25c3b2220076173b0ac3d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>f8db171197370110234e30d3f153af67</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-30 18:51:31</sys_created_on>
+        <sys_id>d7db935197370110234e30d3f153af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-30 18:51:31</sys_updated_on>
+        <value>IO:f72633ee97130110234e30d3f153af71={{step['8ed02c4f97170110234e30d3f153afd6'].record_id}}^EQ</value>
+        <variable display_value="Variable Values">346eea25c3b2220076173b0ac3d3ae8b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=f8db171197370110234e30d3f153af67"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>variable_values</field>
+        <id>f8db171197370110234e30d3f153af67</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-30 18:51:31</sys_created_on>
+        <sys_id>57db935197370110234e30d3f153af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-30 18:51:31</sys_updated_on>
+        <table>var__m_atf_input_variable_323ca6e1c3b2220076173b0ac3d3aec1</table>
+        <value>IO:f72633ee97130110234e30d3f153af71={{step['8ed02c4f97170110234e30d3f153afd6'].record_id}}^EQ</value>
+    </sys_element_mapping>
+</record_update>

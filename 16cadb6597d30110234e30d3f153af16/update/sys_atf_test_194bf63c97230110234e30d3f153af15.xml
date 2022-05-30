@@ -3,7 +3,7 @@
         <active>true</active>
         <copied_from/>
         <description/>
-        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <enable_parameterized_testing>true</enable_parameterized_testing>
         <name>Information - List - User - Read</name>
         <parameters/>
         <remember/>
@@ -11,14 +11,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-16 16:56:31</sys_created_on>
         <sys_id>194bf63c97230110234e30d3f153af15</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Information - List - User - Read</sys_name>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
         <sys_policy/>
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sys_atf_test_194bf63c97230110234e30d3f153af15</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-30 16:11:31</sys_updated_on>
+        <sys_updated_on>2022-05-30 16:39:43</sys_updated_on>
     </sys_atf_test>
     <sys_variable_value action="delete_multiple" query="document_key=194bf63c97230110234e30d3f153af15"/>
 </record_update>
