@@ -17,14 +17,14 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_402400_reporting.manager</roles>
+        <roles>x_402400_reporting.user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-06 16:56:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0e6b13e597d30110234e30d3f153afb1</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>All Information</sys_name>
         <sys_overrides/>
         <sys_package display_value="reporting" source="x_402400_reporting">16cadb6597d30110234e30d3f153af16</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="reporting">16cadb6597d30110234e30d3f153af16</sys_scope>
         <sys_update_name>sys_app_module_0e6b13e597d30110234e30d3f153afb1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-10 18:21:51</sys_updated_on>
+        <sys_updated_on>2022-05-30 15:54:59</sys_updated_on>
         <timeline_page/>
         <title>All Information</title>
         <uncancelable>false</uncancelable>
